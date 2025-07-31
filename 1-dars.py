@@ -1,0 +1,8 @@
+print('salem')
+print("Men 'Dell' markasidagi \nnoutbook sotib oldim va bu judayam zo'r eken")
+print('Maulenbergenova')
+print('Jaqsimbaevna')
+print('1993-jil')
+print(19//4)
+print('to\'qizning kvadrati', 9*9, 'ga teng' )
+print('3x3=',3*3, 'ga teng')
