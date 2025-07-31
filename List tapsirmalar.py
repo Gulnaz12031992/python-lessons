@@ -43,7 +43,7 @@ mehmonlar.append(friends.pop(1))
 mehmonlar.append(friends.pop(0))
 mehmonlar.append(friends.pop(0))
 print(mehmonlar)
-# ky=mehmonlar.pop(4)
-# print('mehmonga kelganlar',mehmonlar,'kelmaganlar',ky)
-# ismlar=['Lapiza','Malika','Feruza','Janat','Gulnaz']
-# print(f'{ismlar[3]} bugin jumisqa keldinbe?,\n{ismlar[1]},bugin tayarliq boldima?,\n{ismlar[2]},balalarin baqshadama?')
+ky=mehmonlar.pop(4)
+print('mehmonga kelganlar',mehmonlar,'kelmaganlar',ky)
+ismlar=['Lapiza','Malika','Feruza','Janat','Gulnaz']
+print(f'{ismlar[3]} bugin jumisqa keldinbe?,\n{ismlar[1]},bugin tayarliq boldima?,\n{ismlar[2]},balalarin baqshadama?')
